@@ -1,0 +1,30 @@
+current size: 512 in power of 2 = 262144
+parallel duration: 0.0068121
+in series duration: 0.007206
+current size: 1024 in power of 2 = 1048576
+parallel duration: 0.00141907
+in series duration: 0.025992
+current size: 1536 in power of 2 = 2359296
+parallel duration: 0.003299
+in series duration: 0.056942
+current size: 2048 in power of 2 = 4194304
+parallel duration: 0.00543809
+in series duration: 0.096849
+current size: 2560 in power of 2 = 6553600
+parallel duration: 0.00788784
+in series duration: 0.080432
+current size: 3072 in power of 2 = 9437184
+parallel duration: 0.0146852
+in series duration: 0.110186
+current size: 3584 in power of 2 = 12845056
+parallel duration: 0.0165901
+in series duration: 0.148752
+current size: 4096 in power of 2 = 16777216
+parallel duration: 0.0211251
+in series duration: 0.193798
+current size: 4608 in power of 2 = 21233664
+parallel duration: 0.0247719
+in series duration: 0.253826
+current size: 5120 in power of 2 = 26214400
+parallel duration: 0.02984
+in series duration: 0.305005

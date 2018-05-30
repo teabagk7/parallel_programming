@@ -1,0 +1,30 @@
+current size: 512 in power of  2 = 262144
+ Parallel duration is : 0.00740981
+ In series duration is : 0.00742
+current size: 1024 in power of  2 = 1048576
+ Parallel duration is : 0.00122285
+ In series duration is : 0.019561
+current size: 1536 in power of  2 = 2359296
+ Parallel duration is : 0.00290084
+ In series duration is : 0.043909
+current size: 2048 in power of  2 = 4194304
+ Parallel duration is : 0.0043931
+ In series duration is : 0.07277
+current size: 2560 in power of  2 = 6553600
+ Parallel duration is : 0.00750589
+ In series duration is : 0.110953
+current size: 3072 in power of  2 = 9437184
+ Parallel duration is : 0.010071
+ In series duration is : 0.164988
+current size: 3584 in power of  2 = 12845056
+ Parallel duration is : 0.0144281
+ In series duration is : 0.195971
+current size: 4096 in power of  2 = 16777216
+ Parallel duration is : 0.0183408
+ In series duration is : 0.219052
+current size: 4608 in power of  2 = 21233664
+ Parallel duration is : 0.0242009
+ In series duration is : 0.256262
+current size: 5120 in power of  2 = 26214400
+ Parallel duration is : 0.027313
+ In series duration is : 0.285336
